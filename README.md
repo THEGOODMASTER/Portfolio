@@ -1,6 +1,6 @@
 # Portfolio
 
-# 1. INTEGRATING LANGUAGES
+# 1. INTEGRATING LANGUAGES PROJECT
 This project was designed to take advantage of the strengths of both C++ and Python.
 
 I feel that this project demonstrates industry standard inline comments superbly.
