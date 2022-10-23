@@ -14,13 +14,13 @@ The skill of programming in multiple languages and knowing how to utilize the st
 I know the naming conventions and styling in this program contribute to the overall  maintainability, readability, and adaptability, as well as the commenting and individual files each with their own purpose. 
 
 # 2. SOFTWARE DESIGN DOCUMENT
-# Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+## Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 This document lays out the design for the client "The Game Room" who is trying to design a web based gaming application. In this design I considered both the client and server sides to the entire application. 
 
-# What did you do particularly well in developing this documentation?
+### What did you do particularly well in developing this documentation?
 One of my greatest achivements in this document is the 'Evaluation' and the 'Recommendations' sections. I feel I was able to do sufficient research and make well educated claims specifically to these sections. 
 
-# What about the process of working through a design document did you find helpful when developing the code?
+#### What about the process of working through a design document did you find helpful when developing the code?
 Working to create a design document while simultaniously building the software, gave me insights into the design I might not have otherwise thought about. 
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
