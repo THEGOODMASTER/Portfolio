@@ -31,3 +31,19 @@ I knew from our prompts that this was a small startup, just beginning their jour
 
 #### How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 One of the first things was I worked to consider their needs. What is their end goal with the project? What do they need to do to meet that goal? Next, I worked to consider the clients contraints. Are they on a tight budget? How big is their team? From there I considered a few options for the future design. What is even possible with this idea? How could we make it work? Finally, I summed up the document with some recommendations for growth in the project. What are things to keep in mind as we work on this project and how does our current stage affect the future?
+
+# 3. SYSTEM ANALYSIS AND DESIGN DOCUMENTS
+#### Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The client for the project was a group of entrepreneurs with the idea to improve driving test pass rates. They would do it by providing study matierials and hands on experience. My job was to design the system that could enable them to operate.
+
+#### What did you do particularly well?
+From these two documents I felt that I broke down the needs of the company into reasonable tasks. It was quite the adventure to take the broad needs of a company and break it down to the object level.
+
+#### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I think the activity diagram for the login system should have had explicit labeling that it will loop to receive input only a limited number of times. That is what I inteded for the system but I should have included it in the diagram.
+
+#### How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+The client wanted a secure system that they could be accessed by the general public as well as staff. Each of these users would have their own set of privilages so that the system can remain secure and still be updated and maintained. I gathered these requirements through a series of interviews with the client. Considering what is needed for the system and how each user of the system will use it is the best way to cover all bases in a design. It gives you a broader view of truly everything needed. 
+
+#### How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+When designing software I have taken the approach of reading or listening to the requirements given to me but only half hartedly. I wouldn't think beyond the bare requirements and it would cause me a lot of issues when it came time to actually code. From now on I will view the information I am given about a system in a very different light. I wouldn't expect that all issues I will encounter will have been accounted for.
