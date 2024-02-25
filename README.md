@@ -82,3 +82,7 @@ As a computer scientist, writing maintainable, readable, and adaptable programs 
 Approaching problems as a computer scientist involves systematic analysis, planning, and implementation. When addressing Grazioso Salvare's database and dashboard requirements, I followed a structured approach, starting with understanding the problem domain and defining clear objectives. This differed from previous assignments by emphasizing real-world application and client needs over purely technical challenges. In the future, I would leverage techniques like entity-relationship modeling and agile development methodologies to efficiently design and implement databases tailored to specific client requirements.
 
 Computer scientists play a vital role in solving complex problems and advancing technology. By delivering high-quality software solutions, like the database and dashboard system for Grazioso Salvare, companies can streamline their operations, enhance decision-making processes, and ultimately improve their productivity and competitiveness. Our work on this project enabled Grazioso Salvare to manage their data more effectively, gain insights through intuitive visualizations, and make informed business decisions, thereby empowering them to achieve their objectives more efficiently.
+
+# 9. CS 330
+
+
